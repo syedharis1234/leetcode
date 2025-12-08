@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/syedharis1234/leetcode/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedharis1234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/syedharis1234/leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/syedharis1234/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/syedharis1234/leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/syedharis1234/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
