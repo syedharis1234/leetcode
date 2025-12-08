@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/syedharis1234/leetcode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedharis1234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/syedharis1234/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedharis1234/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/syedharis1234/leetcode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/syedharis1234/leetcode/tree/master/0155-min-stack) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/syedharis1234/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
