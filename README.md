@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/syedharis1234/leetcode/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedharis1234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/syedharis1234/leetcode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/syedharis1234/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/syedharis1234/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedharis1234/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
