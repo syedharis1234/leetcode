@@ -41,10 +41,12 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedharis1234/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/syedharis1234/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/syedharis1234/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/syedharis1234/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/syedharis1234/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/syedharis1234/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/syedharis1234/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/syedharis1234/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
