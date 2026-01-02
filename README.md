@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/syedharis1234/leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/syedharis1234/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sorting
 |  |
 | ------- |
@@ -54,4 +55,12 @@
 | [0035-search-insert-position](https://github.com/syedharis1234/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/syedharis1234/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedharis1234/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/syedharis1234/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/syedharis1234/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
